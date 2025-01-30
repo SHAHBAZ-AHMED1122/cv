@@ -22,7 +22,7 @@ function Experience() {
         </div>
         <div> <ul className="list-disc  ml-8 space-y-2 mt-">
               <li>
-              "Engineered dynamic and scalable web applications using React.js, Next.js, and Tailwind CSS, adhering to best practices for performance optimization and maintainability
+              Engineered dynamic and scalable web applications using React.js, Next.js, and Tailwind CSS, adhering to best practices for performance optimization and maintainability
               </li>
               <li>
               Collaborated with cross-functional teams using Git/GitHub for version control, ensuring seamless integration, code consistency, and efficient project management
