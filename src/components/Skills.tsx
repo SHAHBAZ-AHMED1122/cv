@@ -8,12 +8,13 @@ function Skills() {
           TECHNICAL SKILLS
         </h1>
       </div> 
-      <div className='pt-2 pb-20'>
+      <div className='pt-2'>
 
-      <h1 className='font-bold text-xl'>Languages: <span className='font-normal text-base'> HTML, CSS5, JavaScript, TypeScript,</span></h1>
+      <h1 className='font-bold text-xl'>Languages: <span className='font-normal text-base'>  JavaScript, TypeScript,</span></h1>
+      <h1 className='font-bold text-xl'>Web Development: <span className='font-normal text-base'>CSS, DOM manipulation, Async js, APIs, REST APIs</span></h1>
+      <h1 className='font-bold text-xl'>Libraries: <span className='font-normal text-base'> React.js,  Material-UI ,Shadcn</span></h1>
       <h1 className='font-bold text-xl'>Frameworks: <span className='font-normal text-base'> Next.js, Tailwind CSS</span></h1>
-      <h1 className='font-bold text-xl'>Developer Tools: <span className='font-normal text-base'> GitHub, VS Code, Visual Studio</span></h1>
-      <h1 className='font-bold text-xl'>Libraries: <span className='font-normal text-base'> Shadcn, React.js,  Material-UI</span></h1>
+      <h1 className='font-bold text-xl'>WebDev Tools: <span className='font-normal text-base'> GitHub, VS Code, Visual Studio, CMS (Content management systems), Figma, Netlify, vercel, Sanity  </span></h1>
       </div>
     </div>
   )

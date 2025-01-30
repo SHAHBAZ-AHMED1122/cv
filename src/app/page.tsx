@@ -8,12 +8,12 @@ import React from "react";
 function page() {
   return (
     <div>
-      <div className=" mt-20 w-[1000px]  items-center mx-auto shadow-2xl">
+      <div className=" w-[1000px]  items-center mx-auto shadow-2xl">
         <Header/>
-       <Education/>
+       <Skills/>
        <Projects/>
        <Experience/>
-       <Skills/>
+       <Education/>
        
           
         </div>

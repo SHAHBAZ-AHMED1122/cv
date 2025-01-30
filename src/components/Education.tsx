@@ -3,7 +3,7 @@ import React from 'react'
 function Education() {
   return (
     <div className='px-14'>
-      <div className='mt-4'>
+      <div className='mt-2'>
         <h1 className='text-xl font-semibold border-b-2 border-black '>
             EDUCATION
         </h1>
@@ -11,13 +11,13 @@ function Education() {
       <div>
         <div className='flex justify-between items-center pt-2 px-4'>
 <div>
-        <h1 className='font-bold text-xl'>Sindh MadarsatulIslam University</h1>
+        <h1 className='font-bold text-xl'>University of Karachi</h1>
 </div>
 <div>
 <h1 className='font-semibol text-xl'>Pakistan, Karachi</h1> 
 </div>
         </div>
-        <div className='flex justify-between items-center pt-2 px-4'>
+        <div className='flex justify-between items-center  px-4'>
 <div>
          <h1 className='text-xl '>Bachelor of Science in Computer Science </h1> 
 
@@ -26,7 +26,7 @@ function Education() {
 <h1 className='font-semibol text-xl'>Aug 2023 - May 2027 </h1> 
 </div>
         </div>
-        <div className='flex justify-between items-center pt-4 px-4'>
+        <div className='flex justify-between items-center pt-3 px-4'>
 <div>
         <h1 className='font-bold text-xl'>Shah Abdul Lateef College</h1>
 </div>
@@ -34,7 +34,7 @@ function Education() {
 <h1 className='font-semibol text-xl'>Pakistan, Mirpurkhas</h1> 
 </div>
         </div>
-        <div className='flex justify-between items-center pt-2 px-4'>
+        <div className='flex justify-between items-center pb-5 px-4'>
 <div>
          <h1 className='text-xl '>Engineering  </h1> 
 
